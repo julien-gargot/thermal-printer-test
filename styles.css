@@ -1,0 +1,33 @@
+/*
+ * ----------------------------------------------------------------------------
+ * S T Y L E S
+ * ----------------------------------------------------------------------------
+ */
+
+.page {
+  font-family: "System Font", serif;
+  padding-bottom: 5mm;
+}
+
+p {
+  margin: 0 0 10pt 0;
+  word-break: break-all;
+}
+
+.line {
+  width: 100%;
+  height: 2em;
+  font-size: .75em;
+  line-height: 2;
+}
+
+img {
+  display: block;
+  width: 182px;
+}
+
+#gradient {
+  width: 100%;
+  height: 1000pt;
+  background: linear-gradient(to top, #000000 0%,#ffffff 100%);
+}
